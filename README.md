@@ -29,20 +29,6 @@ Version Control
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-### 🚀 Featured Projects
-- **Face Recognition Attendance System**  
-  Real-time project using OpenCV & KNN, with GUI and automated email reporting.
-  
-- **Voice & Gesture Controlled Assistant**  
-  Multi-modal personal assistant with voice commands and hand gesture control using Python and MediaPipe.
-
-- **Pencil Sketch Generator using Python**  
-  Transformed ordinary images into pencil sketches using OpenCV. Blended creativity with code to deliver an aesthetic and fun image-processing experience.
-  
-- **Smart City Guide**  
-  Java-based project that delivers organized city info through a simple interface.
-
----
 
 ### 📊 GitHub Stats
 [![Ruchitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishna-kashu&show_icons=true&hide_title=true)](https://github.com/Krishna-kashu)
