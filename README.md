@@ -37,7 +37,7 @@ He, I'm **Ruchitha Gowda**
 
 
 
- 📊**GitHub Stats**
+ 📊 **GitHub Stats**
 
 ![Ruchitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruchithamgowda&show_icons=true&theme=radical)
 
@@ -60,7 +60,3 @@ He, I'm **Ruchitha Gowda**
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-
-
-“Every great idea starts with curiosity — and a bit of code.”
