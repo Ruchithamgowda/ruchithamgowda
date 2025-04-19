@@ -30,8 +30,14 @@ Version Control
 
 
 
-### 📊 GitHub Stats
-[![Ruchitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishna-kashu&show_icons=true&hide_title=true)](https://github.com/Krishna-kashu)
+ 📊 GitHub Stats
+
+![Ruchitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruchithamgowda&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchithamgowda&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruchithamgowda&theme=radical)
+
 
 ---
 
