@@ -1,4 +1,6 @@
-He, I'm **Ruchitha Gowda**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Ruchitha+Gowda;Dreaming+in+Logic%2C+Coding+is+Creativity." alt="Typing SVG" />
+</h1>
 
 🧑‍💻**About Me**
 
