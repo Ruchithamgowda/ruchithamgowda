@@ -3,7 +3,9 @@ He, I'm **Ruchitha Gowda**
 🧑‍💻**About Me**
 
 🎓 Final-year engineering student in Computer Science and Engineering 
+
 💻 Driven by a passion for software development, I strive to create innovative solutions that address real-world challenges  
+
 🌱 Constantly eager to learn, experiment with fresh concepts, and grow through practical experience
 
  🛠️ **Skills & Tools**
